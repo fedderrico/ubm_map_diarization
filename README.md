@@ -1,1 +1,1 @@
-# ubm_map_diarization
+# Speaker Diarization
